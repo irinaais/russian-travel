@@ -1,3 +1,20 @@
+.header__lang {
+    display: flex;
+    border: red 1px solid;
+    margin: 30px 16px 0 0;
+}
+
 .header__lang-link {
-    
+  width: 22px;
+  height: 20px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 20px;
+  text-align: right;
+  text-decoration-line: underline;
+  color: #ffffff;
+  border: red 1px solid;
+  margin-left: 16px;
 }
