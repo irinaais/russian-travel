@@ -1,3 +1,10 @@
 .intro__list {
-    
+  border: solid 1px red;
+  margin: 34px 16px 0;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 18px;
+  /* or 150% */ 
 }
