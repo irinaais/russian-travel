@@ -1,0 +1,16 @@
+.lead__caption {
+  margin-top: 8px;
+  margin-left: 16px;
+  min-width: 158px;
+  height: 14px;
+  border: red 1px solid;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 14px;
+  /* identical to box height, or 140% */
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: #ffffff;
+}

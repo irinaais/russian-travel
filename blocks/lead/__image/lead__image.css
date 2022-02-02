@@ -1,5 +1,5 @@
 .lead__image {
-    margin: 40px 2px 0;
+    margin: 40px 0 0 -2px;
     background-image: url(../../../images/lead-polka.jpg);
     border: red 1px solid;
     width: 320px;
