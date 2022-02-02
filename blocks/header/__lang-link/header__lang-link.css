@@ -1,8 +1,7 @@
 .header__lang {
-    display: flex;
-    border: red 1px solid;
-    margin: 30px 16px 0 0;
-}
+  display: flex;
+  border: red 1px solid;
+  margin: 30px 16px 0 0;
 
 .header__lang-link {
   width: 22px;
