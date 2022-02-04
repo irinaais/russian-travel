@@ -1,5 +1,4 @@
 .places__website_link {
-  margin-top: 12px;
   border: solid 1px red;
   font-family: Inter;
   font-style: normal;
@@ -8,5 +7,7 @@
   line-height: 22px;
   /* identical to box height, or 122% */
   text-decoration-line: underline;
-  color: #FFFFFF;
+  color: #ffffff;
+  margin-left: 16px;
+  margin-right: 16px;
 }

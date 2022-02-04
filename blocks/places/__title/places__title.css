@@ -1,7 +1,7 @@
 .places__title {
   width: 288px;
   height: 35px;
-  margin: 0 16px;
+  margin: 50px 16px 0;
   border: solid red 1px;
   font-family: Inter;
   font-style: normal;
@@ -9,4 +9,8 @@
   font-size: 32px;
   line-height: 35px;
   /* identical to box height, or 109% */
+}
+
+.places__title:first-child  {
+  margin-top: 0;
 }

@@ -8,4 +8,8 @@
   /* identical to box height, or 100% */
   letter-spacing: 2px;
   color: #aaaaaa;
+  /* margin-left: 16px;
+  margin-right: 16px;
+  margin-top: 22px; */
+  margin: 32px 16px 12px;
 }
