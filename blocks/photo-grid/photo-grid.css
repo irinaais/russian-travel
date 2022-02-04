@@ -5,4 +5,5 @@
   grid-template-columns: repeat(12, 288px);
   grid-template-rows: repeat(12, 216px);
   gap: 12px;
+  grid-auto-flow: column;
 }
