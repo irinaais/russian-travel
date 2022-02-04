@@ -1,0 +1,7 @@
+.places__image {
+  margin-top: 32px;
+  width: 320px;
+  height: 320px;
+  object-fit: cover;
+  width: 100%;
+}
