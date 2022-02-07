@@ -17,4 +17,9 @@
   color: #ffffff;
   border: red 1px solid;
   margin-left: 16px;
+  transition: opacity 0.25s linear;
+}
+
+.header__lang-link:hover {
+  opacity: 70%;
 }
