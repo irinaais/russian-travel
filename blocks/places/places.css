@@ -1,5 +1,6 @@
 .places {
-  margin: 64px 0 0;
+  margin: 0;
+  padding: 64px 0 0;
   border: red solid 1px;
   color: #ffffff;
 }

@@ -1,4 +1,5 @@
 .footer__link {
+  border: solid 1px red;
   font-family: Inter;
   font-style: normal;
   font-weight: normal;

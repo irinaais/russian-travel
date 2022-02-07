@@ -7,4 +7,5 @@
   /* identical to box height, or 100% */
   padding-top: 48px;
   margin: 0;
+  border: solid red 1px;
 }
