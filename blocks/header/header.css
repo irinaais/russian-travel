@@ -1,7 +1,7 @@
 .header {
   min-width: 288px;
   min-height: 42px;
-  position: relative;
+  /* position: relative; */
   display: flex;
   justify-content: space-between;
   border: red 1px solid;
