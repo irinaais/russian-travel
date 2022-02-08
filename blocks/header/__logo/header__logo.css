@@ -4,3 +4,30 @@
   margin: 16px 0 0 16px;
   border: red 1px solid;
 }
+
+@media screen and (min-width:768px) {
+  .header__logo {
+    width: 176px;
+    height: 52px;
+    margin: 28px 0 0 24px;
+    border: red 1px solid;
+  }
+}
+
+@media screen and (min-width:1024px) {
+  .header__logo {
+    width: 176px;
+    height: 52px;
+    margin: 28px 0 0 48px;
+    border: red 1px solid;
+  }
+}
+
+@media screen and (min-width:1280px) {
+  .header__logo {
+    width: 176px;
+    height: 52px;
+    margin: 28px 0 0 48px;
+    border: red 1px solid;
+  }
+}
