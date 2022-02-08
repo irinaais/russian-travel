@@ -5,7 +5,30 @@
   font-weight: normal;
   font-size: 16px;
   line-height: 20px;
-  /* or 125% */
   text-align: center;
   margin: 16px 16px 0;
+}
+
+@media screen and (min-width: 768px) {
+  .lead__subtitle {
+    margin: 32px 64px 0;
+    font-size: 30px;
+    line-height: 36px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .lead__subtitle {
+    margin: 32px 192px 0;
+    font-size: 30px;
+    line-height: 36px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .lead__subtitle {
+    margin: 32px 320px 0;
+    font-size: 30px;
+    line-height: 36px;
+  }
 }

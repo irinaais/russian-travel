@@ -11,14 +11,26 @@
   margin: 48px 16px 0;
 }
 
-@media screen and (min-width:768px) {
-  
+@media screen and (min-width: 768px) {
+  .lead__title {
+    margin: 48px 24px 0;
+    font-size: 96px;
+    line-height: 100px;
+  }
 }
 
-@media screen and (min-width:1024px) {
-  
+@media screen and (min-width: 1024px) {
+  .lead__title {
+    margin: 48px 152px 0;
+    font-size: 96px;
+    line-height: 100px;
+  }
 }
 
-@media screen and (min-width:1280px) {
-  
+@media screen and (min-width: 1280px) {
+  .lead__title {
+    margin: 48px 280px 0;
+    font-size: 96px;
+    line-height: 100px;
+  }
 }
