@@ -23,3 +23,42 @@
 .header__lang-link:hover {
   opacity: 70%;
 }
+
+@media screen and (min-width:768px) {
+  .header__lang {
+    margin: 46px 24px 0 0;
+    border: red 1px solid;
+  }
+
+  .header__lang-link {
+    font-size: 24px;
+    width: 30px;
+    height: 28px;
+  }
+}
+
+@media screen and (min-width:1024px) {
+  .header__lang {
+    margin: 46px 48px 0 0;
+    border: red 1px solid;
+  }
+
+  .header__lang-link {
+    font-size: 24px;
+    width: 30px;
+    height: 28px;
+  }
+}
+
+@media screen and (min-width:1280px) {
+  .header__lang {
+    margin: 46px 48px 0 0;
+    border: red 1px solid;
+  }
+
+  .header__lang-link {
+    font-size: 24px;
+    width: 30px;
+    height: 28px;
+  }
+}
