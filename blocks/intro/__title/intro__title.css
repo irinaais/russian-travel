@@ -8,6 +8,23 @@
   font-weight: 900;
   font-size: 32px;
   line-height: 35px;
-  /* or 109% */
   border: solid 1px red;
+}
+
+@media screen and (min-width: 768px) {
+  .intro__title {
+    padding: 88px 0 0;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .intro__title {
+
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .intro__title {
+
+  }
 }
