@@ -1,6 +1,7 @@
 .intro__title {
-  margin: 0 16px;
-  padding: 64px 0 0;
+  /* margin: 0 16px;
+  padding: 64px 0 0; */
+  margin: 64px 16px 0;
   font-family: Inter;
   font-style: normal;
   font-weight: 900;
@@ -11,8 +12,9 @@
 
 @media screen and (min-width: 768px) {
   .intro__title {
-    padding: 88px 0 0;
-    margin: 0 24px;
+    /* padding: 88px 0 0;
+    margin: 0 24px; */
+    margin: 88px 24px 0;
     font-size: 54px;
     line-height: 58px;
   }
@@ -20,14 +22,16 @@
 
 @media screen and (min-width: 1024px) {
   .intro__title {
-    padding: 92px 0 0;
-    margin: 0 48px;
+    /* padding: 92px 0 0;
+    margin: 0 48px; */
+    margin: 92px 48px 0;
   }
 }
 
 @media screen and (min-width: 1280px) {
   .intro__title {
-    padding: 92px 0 0;
-    margin: 0 148px;
+    /* padding: 92px 0 0;
+    margin: 0 148px; */
+    margin: 92px 148px 0;
   }
 }
