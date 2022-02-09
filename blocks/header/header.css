@@ -1,7 +1,30 @@
 .header {
-  min-width: 288px;
-  min-height: 42px;
+  /* min-width: 288px;
+  min-height: 42px; */
   display: flex;
   justify-content: space-between;
-  border: red 1px solid;
+  border: blue 1px solid;
+  /* padding-left: 16px; */
+  /* padding-right: 16px; */
+}
+
+@media screen and (min-width: 768px) {
+  .header {
+    /* padding-left: 24px; */
+    /* padding-right: 24px; */
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .header {
+    /* padding-left: 48px; */
+    /* padding-right: 48px; */
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .header {
+    /* padding-left: 48px; */
+    /* padding-right: 48px; */
+  }
 }

@@ -8,8 +8,10 @@
   background-size: cover;
 } */
 .lead__image-container {
-  display: flex;
-  justify-content: center;
+  display: block;
+  /* max-width: 984px; */
+  /* justify-content: center; */
+  /* align-items: center; */
   border: 1px solid green;
   margin: 40px 0 0;
 }
@@ -17,6 +19,8 @@
   border: red 1px solid;
   object-fit: cover;
   width: 100%;
+  max-width: 984px;
+  align-items: center;
 }
 
 @media screen and (min-width: 768px) {
