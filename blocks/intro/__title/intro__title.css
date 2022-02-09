@@ -1,8 +1,6 @@
 .intro__title {
   margin: 0 16px;
   padding: 64px 0 0;
-  width: 288px;
-  height: 70px;
   font-family: Inter;
   font-style: normal;
   font-weight: 900;
@@ -14,17 +12,22 @@
 @media screen and (min-width: 768px) {
   .intro__title {
     padding: 88px 0 0;
+    margin: 0 24px;
+    font-size: 54px;
+    line-height: 58px;
   }
 }
 
 @media screen and (min-width: 1024px) {
   .intro__title {
-
+    padding: 92px 0 0;
+    margin: 0 48px;
   }
 }
 
 @media screen and (min-width: 1280px) {
   .intro__title {
-
+    padding: 92px 0 0;
+    margin: 0 148px;
   }
 }
