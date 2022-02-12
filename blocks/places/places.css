@@ -1,6 +1,6 @@
 .places {
   padding-top: 64px;
-  padding-left: 16px;
+  /* padding-left: 16px; */
   border: red solid 1px;
   color: #ffffff;
 }

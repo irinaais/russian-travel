@@ -3,6 +3,7 @@
   margin: 0;
   padding: 0;
   border: solid red 1px;
+  padding-left: 16px;
 }
 
 @media screen and (min-width: 768px) {
