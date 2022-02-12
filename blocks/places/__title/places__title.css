@@ -1,6 +1,7 @@
 .places__title {
   margin: 0;
-  padding-left: 16px;
+  /* padding-left: 16px; */
+  padding: 0 16px;
   font-weight: 900;
   font-size: 72px;
   line-height: 1.06;

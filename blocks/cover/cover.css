@@ -1,13 +1,33 @@
 .cover {
-  margin: 66px 0 0;
+  margin-top: 66px;
   background-image: url(../../images/cover-trains.jpg);
   border: solid 1px red;
   background-size: cover;
-  width: 320px;
-  height: 200px;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  min-height: 200px;
   transition: opacity 0.25s linear;
 }
 
 .cover:hover {
   opacity: 70%;
+}
+
+@media screen and (min-width: 768px) {
+  .cover {
+    min-height: 480px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .cover {
+    min-height: 640px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .cover {
+   min-height: 740px;
+  }
 }

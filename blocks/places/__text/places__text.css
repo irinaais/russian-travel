@@ -5,7 +5,8 @@
   font-size: 18px;
   line-height: 163%;
   border: solid red 1px;
-  padding-left: 16px;
+  /* padding-left: 16px; */
+  padding: 0 16px;
 }
 
 @media screen and (max-width: 767px) {

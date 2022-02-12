@@ -4,6 +4,26 @@
   font-weight: normal;
   font-size: 14px;
   line-height: 16px;
-  /* or 114% */
   text-align: center;
+}
+
+@media screen and (min-width: 768px) {
+  .cover__subtitle {
+    font-size: 18px;
+  line-height: 22px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .cover__subtitle {
+    font-size: 18px;
+  line-height: 22px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .cover__subtitle {
+    font-size: 18px;
+    line-height: 22px;
+  }
 }
