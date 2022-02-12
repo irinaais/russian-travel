@@ -5,10 +5,8 @@
   font-weight: normal;
   font-size: 18px;
   line-height: 22px;
-  /* identical to box height, or 122% */
   text-decoration-line: underline;
   color: #ffffff;
-  margin-left: 16px;
   margin-right: 16px;
   transition: opacity 0.25s linear;
 }

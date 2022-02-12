@@ -1,6 +1,27 @@
 .places {
-  margin: 0;
-  padding: 64px 0 0;
+  padding-top: 64px;
+  padding-left: 16px;
   border: red solid 1px;
   color: #ffffff;
+}
+
+@media screen and (min-width: 768px) {
+  .places {
+    padding-top: 88px;
+    padding-left: 24px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .places {
+    padding-top: 92px;
+    padding-left: 48px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .places {
+    padding-top: 92px;
+    padding-left: 148px;
+  }
 }

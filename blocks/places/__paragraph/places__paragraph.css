@@ -1,14 +1,8 @@
 .places__paragraph {
-  margin: 32px 16px 25px;
+  margin: 0 0 24px;
   border: solid red 1px;
-  font-family: Inter;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 16px;
-  line-height: 163%;
-  /* or 26px */
 }
 
-.places__paragraph:last-child {
-  margin-bottom: 0;
+.places__paragraph:last-of-type {
+  margin: 0;
 }

@@ -32,6 +32,8 @@
 @import url(../blocks/places/__website/_link/places__website_link.css);
 @import url(../blocks/places/__image/places__image.css);
 @import url(../blocks/places/__paragraph/places__paragraph.css);
+@import url(../blocks/places/__card/places__card.css);
+@import url(../blocks/places/__text/places__text.css);
 
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__title/__cover__title.css);

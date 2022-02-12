@@ -29,7 +29,7 @@
 
 @media screen and (min-width: 1280px) {
   .lead__title {
-    margin: 56px 280px 0;
+    margin: 56px auto 0;
     font-size: 96px;
     line-height: 100px;
   }

@@ -1,16 +1,22 @@
 .places__title {
-  width: 288px;
-  height: 35px;
-  margin: 50px 16px 0;
-  border: solid red 1px;
-  font-family: Inter;
-  font-style: normal;
+  margin: 0;
   font-weight: 900;
-  font-size: 32px;
-  line-height: 35px;
-  /* identical to box height, or 109% */
+  font-size: 72px;
+  line-height: 1.06;
+  border: solid red 1px;
 }
 
-.places__title:first-child  {
-  margin-top: 0;
+@media screen and (max-width: 1023px) {
+  .places__title {
+    font-size: 42px;
+    line-height: 1.1;
+  }
+}
+
+@media screen and (max-width: 424px) {
+  .places__title {
+    font-size: 32px;
+    line-height: 1.09;
+    padding: 0 16px;
+  }
 }

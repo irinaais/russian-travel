@@ -1,12 +1,17 @@
 .places__website_url-heading {
-  border: solid red 1px;
+  display: block;
   font-family: Inter;
-  font-style: normal;
   font-weight: normal;
   font-size: 12px;
   line-height: 12px;
-  /* identical to box height, or 100% */
   letter-spacing: 2px;
   color: #aaaaaa;
-  margin: 32px 16px 12px;
+  margin: 0 0 12px;
+  border: solid red 1px;
+}
+
+@media screen and (max-width: 767px) {
+  .places__website_url-heading {
+    margin-top: 32px;
+  }
 }
