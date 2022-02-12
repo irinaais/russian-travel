@@ -5,18 +5,3 @@
   border: solid red 1px;
   padding-left: 16px;
 }
-
-@media screen and (min-width: 768px) {
-  .places__website {
-  }
-}
-
-@media screen and (min-width: 1024px) {
-  .places__website {
-  }
-}
-
-@media screen and (min-width: 1280px) {
-  .places__website {
-  }
-}
