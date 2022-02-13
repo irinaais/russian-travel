@@ -1,6 +1,5 @@
 .places__paragraph {
   margin: 0 0 24px;
-  border: solid red 1px;
 }
 
 .places__paragraph:last-of-type {

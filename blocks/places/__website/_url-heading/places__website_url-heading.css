@@ -7,7 +7,6 @@
   letter-spacing: 2px;
   color: #aaaaaa;
   margin: 0 0 12px;
-  border: solid red 1px;
 }
 
 @media screen and (max-width: 767px) {

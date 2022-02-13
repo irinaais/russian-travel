@@ -1,7 +1,6 @@
 .footer__link-column {
   display: flex;
   flex-direction: column;
-  border: 1px solid green;
 }
 
 @media screen and (min-width: 768px) {
@@ -13,7 +12,6 @@
 }
 
 .footer__link {
-  border: solid 1px red;
   font-family: Inter;
   font-style: normal;
   font-weight: normal;

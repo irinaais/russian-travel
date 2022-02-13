@@ -3,7 +3,6 @@
   grid-template-columns: 1fr;
   grid-template-rows: minmax(min-content, max-content) 1fr;
   margin-bottom: 50px;
-  border: solid red 1px;
 }
 
 .places__card:last-of-type {

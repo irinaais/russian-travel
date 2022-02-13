@@ -1,8 +1,5 @@
 .places__website {
   align-self: end;
   margin: 0;
-  padding: 0;
-  border: solid red 1px;
-  /* padding-left: 16px; */
   padding: 0 16px;
 }

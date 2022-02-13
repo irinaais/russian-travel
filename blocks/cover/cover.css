@@ -1,7 +1,6 @@
 .cover {
   margin-top: 66px;
   background-image: url(../../images/cover-trains.jpg);
-  border: solid 1px red;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -28,6 +27,6 @@
 
 @media screen and (min-width: 1280px) {
   .cover {
-   min-height: 740px;
+    min-height: 740px;
   }
 }

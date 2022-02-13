@@ -1,8 +1,5 @@
 .header__lang {
   display: flex;
-  border: red 1px solid;
-  /* margin-top: 30px;
-  margin-right: 16px; */
   margin: 30px 16px 0 0;
 }
 
@@ -17,7 +14,6 @@
   text-align: right;
   text-decoration-line: underline;
   color: #ffffff;
-  border: red 1px solid;
   margin-left: 16px;
   transition: opacity 0.25s linear;
 }
@@ -29,9 +25,6 @@
 @media screen and (min-width: 768px) {
   .header__lang {
     margin: 46px 24px 0 0;
-    /* margin-top: 46px;
-    margin-right: 24px; */
-    border: red 1px solid;
   }
 
   .header__lang-link {
@@ -44,9 +37,6 @@
 @media screen and (min-width: 1024px) {
   .header__lang {
     margin: 46px 48px 0 0;
-    /* margin-top: 46px;
-    margin-right: 48px; */
-    border: red 1px solid;
   }
 
   .header__lang-link {
@@ -59,9 +49,6 @@
 @media screen and (min-width: 1280px) {
   .header__lang {
     margin: 46px 48px 0 0;
-    /* margin-top: 46px;
-    margin-right: 48px; */
-    border: red 1px solid;
   }
 
   .header__lang-link {
