@@ -6,6 +6,7 @@
   line-height: 35px;
   text-align: center;
   padding-top: 33px;
+  max-width: 288px;
 }
 
 @media screen and (min-width: 768px) {
@@ -13,6 +14,7 @@
     font-size: 72px;
     line-height: 76px;
     padding-top: 115px;
+    max-width: 560px;
   }
 }
 
@@ -21,6 +23,7 @@
     font-size: 72px;
     line-height: 76px;
     padding-top: 195px;
+    max-width: 560px;
   }
 }
 
@@ -29,5 +32,6 @@
     font-size: 72px;
     line-height: 76px;
     padding-top: 245px;
+    max-width: 560px;
   }
 }
