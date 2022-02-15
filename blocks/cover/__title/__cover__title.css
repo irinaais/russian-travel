@@ -5,12 +5,14 @@
   font-size: 32px;
   line-height: 35px;
   text-align: center;
+  padding-top: 33px;
 }
 
 @media screen and (min-width: 768px) {
   .cover__title {
     font-size: 72px;
     line-height: 76px;
+    padding-top: 115px;
   }
 }
 
@@ -18,6 +20,7 @@
   .cover__title {
     font-size: 72px;
     line-height: 76px;
+    padding-top: 195px;
   }
 }
 
@@ -25,5 +28,6 @@
   .cover__title {
     font-size: 72px;
     line-height: 76px;
+    padding-top: 245px;
   }
 }
