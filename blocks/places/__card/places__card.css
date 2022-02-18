@@ -21,8 +21,6 @@
 @media screen and (min-width: 1024px) {
   .places__card {
     column-gap: 32px;
-    row-gap: 48px;
-    grid-template-columns: 1fr 1.1fr;
     margin-bottom: 80px;
   }
 }
@@ -30,8 +28,5 @@
 @media screen and (min-width: 1280px) {
   .places__card {
     column-gap: 40px;
-    row-gap: 48px;
-    grid-template-columns: 1fr 1.1fr;
-    margin-bottom: 80px;
   }
 }

@@ -20,7 +20,6 @@
 
 .header__lang-link:hover {
   opacity: 70%;
-  /* text-decoration-line: underline; */
 }
 
 @media screen and (min-width: 768px) {
@@ -38,23 +37,5 @@
 @media screen and (min-width: 1024px) {
   .header__lang {
     margin: 46px 48px 0 0;
-  }
-
-  .header__lang-link {
-    font-size: 24px;
-    width: 30px;
-    height: 28px;
-  }
-}
-
-@media screen and (min-width: 1280px) {
-  .header__lang {
-    margin: 46px 48px 0 0;
-  }
-
-  .header__lang-link {
-    font-size: 24px;
-    width: 30px;
-    height: 28px;
   }
 }

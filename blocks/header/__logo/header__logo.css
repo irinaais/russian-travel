@@ -16,18 +16,6 @@
 
 @media screen and (min-width: 1024px) {
   .header__logo {
-    width: 176px;
-    height: 52px;
-    margin-top: 28px;
-    margin-left: 48px;
-  }
-}
-
-@media screen and (min-width: 1280px) {
-  .header__logo {
-    width: 176px;
-    height: 52px;
-    margin-top: 28px;
     margin-left: 48px;
   }
 }
