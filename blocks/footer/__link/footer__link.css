@@ -1,6 +1,7 @@
 .footer__link-column {
   display: flex;
   flex-direction: column;
+  list-style: none;
 }
 
 @media screen and (min-width: 768px) {
