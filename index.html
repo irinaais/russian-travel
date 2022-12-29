@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="ru" xmlns="http://www.w3.org/1999/html">
   <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="pages/index.css">
@@ -14,10 +14,16 @@
     <div class="page">
       <header class="header page__center">
         <img class="header__logo" src="images/header-logo.svg" alt="Карта России"> 
-        <div class="header__lang">
-          <a class="header__lang-link header__lang-link_underline" href="#" target="blank">Ru</a>
-          <a class="header__lang-link" href="#" target="blank">En</a>
-        </div>
+<!--        <div class="header__lang">-->
+<!--          <a class="header__lang-link header__lang-link_underline" href="#" target="blank">Ru</a>-->
+<!--          <a class="header__lang-link" href="#" target="blank">En</a>-->
+<!--        </div>-->
+<!--        <label>-->
+          <select>
+            <option value="ru" selected>RU</option>
+            <option value="en">EN</option>
+          </select>
+<!--        </label>-->
       </header>
       
       <main class="content">
@@ -168,5 +174,7 @@
         <p class="footer__copyright">&copy; 2022. Ирина Осипова</p>
       </footer>
     </div>
+    <script src="lang.js"></script>
+    <script src="script.js"></script>
   </body>
 </html>
