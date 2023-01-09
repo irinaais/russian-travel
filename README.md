@@ -10,5 +10,5 @@
 
 ### Планы по доработке
 
-* Добавить англоязычную версию сайта
+- [x] Добавить англоязычную версию сайта
 * Сделать [усложненный макет](https://www.figma.com/file/5PEoxONEq3Vtr9qQa8jwYD/Russia-%2F-desktop-%2B-mobile-(Copy)?node-id=0%3A1)
