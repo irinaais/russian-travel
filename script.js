@@ -29,7 +29,7 @@ function changeLanguage() {
   document.querySelector("meta[name='keywords']").content = langArr["metaKeywords"][hash];
   document.querySelector("meta[name='author']").content = langArr["metaAuthor"][hash];
 
-  if (hash === "ru") {
+  if (document.querySelector("html").lang === "ru") {
     document.querySelector(".header__logo").src = "images/header-logo.svg";
   } else {
     document.querySelector(".header__logo").src = "images/header-logo-en.svg";
@@ -50,9 +50,6 @@ function changeLanguage() {
       element.alt = translate;
     }
   }
-
-
-
 }
 
 changeLanguage();
