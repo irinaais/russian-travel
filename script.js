@@ -28,7 +28,12 @@ function changeLanguage() {
   document.querySelector("meta[name='description']").content = langArr["metaDescription"][hash];
   document.querySelector("meta[name='keywords']").content = langArr["metaKeywords"][hash];
   document.querySelector("meta[name='author']").content = langArr["metaAuthor"][hash];
-  document.querySelector(".header__logo").src = "images/header-logo-en.svg";
+
+  if (hash === "ru") {
+    document.querySelector(".header__logo").src = "images/header-logo.svg";
+  } else {
+    document.querySelector(".header__logo").src = "images/header-logo-en.svg";
+  }
 
   for (let key in langArr) {
     let element = document.querySelector(`.${key}`);
