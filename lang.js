@@ -234,7 +234,7 @@ const langArr = {
     "en": "Journey",
   },
   "footer__copyright": {
-    "ru": "&copy; 2022. Ирина Осипова",
-    "en": "&copy; 2022. Irina Osipova"
+    "ru": "&copy; 2021-2023. Ирина Осипова",
+    "en": "&copy; 2021-2023. Irina Osipova"
   }
 }
