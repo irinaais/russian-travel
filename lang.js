@@ -48,24 +48,24 @@ const langArr = {
       "worthy of your vacation.",
   },
   "intro__list-item11": {
-    "ru": "Часовых поясов <span class=\"intro__list-num\">11</span>",
-    "en": "Time Zones <span class=\"intro__list-num\">11</span>",
+    "ru": "Часовых поясов: 11",
+    "en": "Time Zones: 11",
   },
   "intro__list-item12": {
-    "ru": "Объектов природного наследия ЮНЕСКО <span class=\"intro__list-num\">12</span>",
-    "en": "UNESCO natural heritage sites <span class=\"intro__list-num\">12</span>",
+    "ru": "Объектов природного наследия ЮНЕСКО: 12",
+    "en": "UNESCO natural heritage sites: 12",
   },
   "intro__list-item16": {
-    "ru": "Объектов культурного наследия ЮНЕСКО <span class=\"intro__list-num\">16</span>",
-    "en": "UNESCO cultural heritage sites <span class=\"intro__list-num\">16</span>",
+    "ru": "Объектов культурного наследия ЮНЕСКО: 16",
+    "en": "UNESCO cultural heritage sites: 16",
   },
   "intro__list-item105": {
-    "ru": "Природных заповедников <span class=\"intro__list-num\">105</span>",
-    "en": "Nature reserves <span class=\"intro__list-num\">105</span>",
+    "ru": "Природных заповедников: 105",
+    "en": "Nature reserves: 105",
   },
   "intro__list-item241": {
-    "ru": "Аэропортов <span class=\"intro__list-num\">241</span>",
-    "en": "Airports <span class=\"intro__list-num\">241</span>",
+    "ru": "Аэропортов: 241",
+    "en": "Airports: 241",
   },
   "photo-grid__item1": {
     "ru": "окно поезда",
